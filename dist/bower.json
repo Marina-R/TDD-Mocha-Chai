@@ -1,0 +1,19 @@
+{
+  "name": "TDD_Mocha:Chai",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Marina-R/TDD-Mocha-Chai",
+  "authors": [
+    "maryna <luv_this_world@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chai": "~3.0.0"
+  }
+}
